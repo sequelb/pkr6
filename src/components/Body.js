@@ -4,10 +4,17 @@ const Body = () => {
   return (
     <main style={styles.body}>
       <div style={styles.card}>
+        <img src={"/bohdan_duda.jpg"} alt="Bohdan Duda" style={styles.photo} />
+        <div style={styles.textContainer}>
+          <h2 style={styles.name}>Bohdan Duda</h2>
+          <p style={styles.position}>QA Engineer</p>
+        </div>
+      </div>
+      <div style={styles.card}>
         <img src={"/roman_kach.jpg"} alt="Roman Kachanovskyi" style={styles.photo} />
         <div style={styles.textContainer}>
           <h2 style={styles.name}>Roman Kachanovskyi</h2>
-          <p style={styles.position}>Business Analyst</p>
+          <p style={styles.position}>Business Analyst</p
         </div>
       </div>
     </main>
