@@ -6,7 +6,7 @@ const Body = () => {
        <div style={styles.card}>
         <img src={"/bohdan_duda.jpg"} alt="Bohdan Duda" style={styles.photo} />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Bohdan Duda</h2>
+          <h2 style={styles.name}>Bohdan Duda Andriiovych</h2>
           <p style={styles.position}>QA Engineer</p>
         </div>
       </div>
@@ -14,7 +14,7 @@ const Body = () => {
       <div style={styles.card}>
         <img src={"/roman_kach.jpg"} alt="Roman Kachanovskyi" style={styles.photo} />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Roman Kachanovskyi</h2>
+          <h2 style={styles.name}>Roman Kachanovskyi Ivanovych</h2>
           <p style={styles.position}>Business Analyst</p>
         </div>
       </div>
@@ -22,7 +22,7 @@ const Body = () => {
       <div style={styles.card}>
         <img src={"/maksym_kapitaniuk.jpg"} alt="Maksym Kapitaniuk" style={styles.photo} />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Maksym Kapitaniuk</h2>
+          <h2 style={styles.name}>Maksym Kapitaniuk Andriiovych</h2>
           <p style={styles.position}>Fullstack Developer</p>
         </div>
       </div>
@@ -30,7 +30,7 @@ const Body = () => {
       <div style={styles.card}>
         <img src={"/viktor_ishchyshyn.jpg"} alt="Viktor Ishchyshyn" style={styles.photo} />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Viktor Ishchyshyn</h2>
+          <h2 style={styles.name}>Viktor Ishchyshyn Bohdanovych</h2>
           <p style={styles.position}>UI/UX designer</p>
         </div>
       </div>
@@ -38,7 +38,7 @@ const Body = () => {
       <div style={styles.card}>
         <img src={"/roman_koval.png"} alt="Roman Koval" style={styles.photo} />
         <div style={styles.textContainer}>
-          <h2 style={styles.name}>Roman Koval</h2>
+          <h2 style={styles.name}>Roman Koval Oleksandrovych</h2>
           <p style={styles.position}>Product manager</p>
         </div>
       </div>
